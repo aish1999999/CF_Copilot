@@ -1,0 +1,36 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=sqlite:///./cf_copilot.db
+      - DEBUG=True
+    volumes:
+      - ./backend:/app
+      - backend-data:/app/data
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
+    networks:
+      - cf-network
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+    networks:
+      - cf-network
+
+volumes:
+  backend-data:
+
+networks:
+  cf-network:
+    driver: bridge
