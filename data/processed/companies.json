@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Burns & McDonnell",
+    "booth": "1/2",
+    "ballroom": "Waldorf",
+    "position_types": [
+      "Entry-Level/Full-Time",
+      "Co-Op",
+      "Internships"
+    ],
+    "majors": [
+      "Chemical Engineering",
+      "Civil Engineering",
+      "Construction Engineering",
+      "Construction Management",
+      "Electrical Engineering",
+      "Electrical Power Engineering Technology",
+      "Engineering Management",
+      "Environmental Engineering",
+      "Industrial Engineering",
+      "Mechanical Engineering",
+      "Supply Chain and Logistics Technology"
+    ],
+    "is_platinum": true
+  },
+  {
+    "name": "BAYSTAR",
+    "booth": "3",
+    "ballroom": "Waldorf",
+    "position_types": [
+      "Entry-Level/Full-Time",
+      "Internships"
+    ],
+    "majors": [
+      "Chemical Engineering",
+      "Computer Engineering & Analytics",
+      "Computer Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Computer & Systems Engineering"
+    ],
+    "is_platinum": false
+  },
+  {
+    "name": "The Newtron Group",
+    "booth": "4",
+    "ballroom": "Waldorf",
+    "position_types": [
+      "Entry-Level/Full-Time"
+    ],
+    "majors": [
+      "All Majors"
+    ],
+    "is_platinum": false
+  },
+  {
+    "name": "Champion Technology Services, Inc.",
+    "booth": "5",
+    "ballroom": "Waldorf",
+    "position_types": [
+      "Entry-Level/Full-Time",
+      "Co-Op"
+    ],
+    "majors": [
+      "Chemical Engineering",
+      "Computer Engineering",
+      "Cybersecurity",
+      "Electrical Engineering",
+      "Industrial Engineering",
+      "Mechanical Engineering",
+      "Computer & Systems Engineering",
+      "Systems Engineering"
+    ],
+    "is_platinum": false
+  },
+  {
+    "name": "Centerpoint Energy",
+    "booth": "6/7",
+    "ballroom": "Waldorf",
+    "position_types": [
+      "Entry-Level/Full-Time",
+      "Co-Op",
+      "Internships"
+    ],
+    "majors": [
+      "Chemical Engineering",
+      "Civil Engineering",
+      "Computer Engineering",
+      "Computer Information Systems",
+      "Construction Engineering",
+      "Construction Management",
+      "Cybersecurity",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ],
+    "is_platinum": false
+  },
+  {
+    "name": "Oncor Electric Delivery",
+    "booth": "8",
+    "ballroom": "Waldorf",
+    "position_types": [
+      "Internships"
+    ],
+    "majors": [
+      "Civil Engineering",
+      "Construction Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ],
+    "is_platinum": false
+  },
+  {
+    "name": "Technip Energies",
+    "booth": "9",
+    "ballroom": "Waldorf",
+    "position_types": [
+      "Entry-Level/Full-Time",
+      "Co-Op",
+      "Internships"
+    ],
+    "majors": [
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Mechanical Engineering Technology",
+      "Subsea Engineering",
+      "Supply Chain and Logistics Technology"
+    ],
+    "is_platinum": false
+  },
+  {
+    "name": "Performance Contracting, Inc.",
+    "booth": "10",
+    "ballroom": "Waldorf",
+    "position_types": [
+      "Entry-Level/Full-Time",
+      "Co-Op",
+      "Internships"
+    ],
+    "majors": [
+      "Construction Engineering",
+      "Construction Management"
+    ],
+    "is_platinum": false
+  },
+  {
+    "name": "S&B Engineers and Constructors, Ltd.",
+    "booth": "11",
+    "ballroom": "Waldorf",
+    "position_types": [
+      "Entry-Level/Full-Time",
+      "Internships"
+    ],
+    "majors": [
+      "Civil Engineering",
+      "Construction Engineering",
+      "Construction Management",
+      "Engineering Data Science",
+      "Electrical Engineering"
+    ],
+    "is_platinum": false
+  },
+  {
+    "name": "American Bureau of Shipping",
+    "booth": "12",
+    "ballroom": "Waldorf",
+    "position_types": [
+      "Entry-Level/Full-Time",
+      "Internships"
+    ],
+    "majors": [
+      "Civil Engineering",
+      "Computer Engineering",
+      "Computer Information Systems",
+      "Cybersecurity",
+      "Electrical Engineering",
+      "Materials Science & Engineering",
+      "Mechanical Engineering"
+    ],
+    "is_platinum": false
+  },
+  {
+    "name": "BASF Corporation",
+    "booth": "13/14",
+    "ballroom": "Waldorf",
+    "position_types": [
+      "Entry-Level/Full-Time",
+      "Internships"
+    ],
+    "majors": [
+      "Chemical Engineering",
+      "Civil Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ],
+    "is_platinum": true
+  },
+  {
+    "name": "Enterprise Products",
+    "booth": "15/16",
+    "ballroom": "Waldorf",
+    "position_types": [
+      "Entry-Level/Full-Time",
+      "Internships"
+    ],
+    "majors": [
+      "Chemical Engineering",
+      "Civil Engineering",
+      "Electrical Engineering",
+      "Environmental Engineering",
+      "Mechanical Engineering"
+    ],
+    "is_platinum": true
+  },
+  {
+    "name": "Alcon",
+    "booth": "17",
+    "ballroom": "Waldorf",
+    "position_types": [
+      "Entry-Level/Full-Time",
+      "Co-Op",
+      "Internships"
+    ],
+    "majors": [
+      "Biomedical Engineering",
+      "Biotechnology",
+      "Chemical Engineering",
+      "Electrical Engineering",
+      "Engineering Unspecified",
+      "Mechanical Engineering",
+      "Supply Chain and Logistics Technology"
+    ],
+    "is_platinum": false
+  },
+  {
+    "name": "ANDRES Construction",
+    "booth": "18",
+    "ballroom": "Waldorf",
+    "position_types": [
+      "Entry-Level/Full-Time",
+      "Internships"
+    ],
+    "majors": [
+      "Construction Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ],
+    "is_platinum": false
+  },
+  {
+    "name": "NOV",
+    "booth": "19/20",
+    "ballroom": "Waldorf",
+    "position_types": [
+      "Entry-Level/Full-Time",
+      "Internships"
+    ],
+    "majors": [
+      "Computer Engineering & Analytics",
+      "Computer Engineering Technology",
+      "Computer Information Systems",
+      "Engineering Unspecified",
+      "Industrial Engineering",
+      "Materials Science & Engineering",
+      "Mechanical Engineering",
+      "Mechanical Engineering Technology",
+      "Computer & Systems Engineering"
+    ],
+    "is_platinum": true
+  },
+  {
+    "name": "Tenaris",
+    "booth": "21/22",
+    "ballroom": "Waldorf",
+    "position_types": [
+      "Entry-Level/Full-Time",
+      "Co-Op",
+      "Internships"
+    ],
+    "majors": [
+      "Engineering Management",
+      "Environmental Engineering",
+      "Human Resource Development",
+      "Industrial Engineering",
+      "Supply Chain and Logistics Technology",
+      "Systems Engineering",
+      "Technology Leadership and Innovation Management",
+      "Technology Project Management"
+    ],
+    "is_platinum": true
+  },
+  {
+    "name": "ExxonMobil",
+    "booth": "41/42",
+    "ballroom": "Waldorf",
+    "position_types": [
+      "Entry-Level/Full-Time",
+      "Internships"
+    ],
+    "majors": [
+      "Chemical Engineering",
+      "Civil Engineering",
+      "Electrical Engineering",
+      "Electrical Power Engineering Technology",
+      "Engineering Management",
+      "Engineering Technology",
+      "Environmental Engineering",
+      "Industrial Engineering",
+      "Materials Science & Engineering",
+      "Mechanical Engineering",
+      "Mechanical Engineering Technology",
+      "Petroleum Engineering",
+      "Supply Chain and Logistics Technology",
+      "Systems Engineering"
+    ],
+    "is_platinum": true
+  },
+  {
+    "name": "Marathon Petroleum Company",
+    "booth": "37/38",
+    "ballroom": "Waldorf",
+    "position_types": [
+      "Co-Op",
+      "Internships"
+    ],
+    "majors": [
+      "Chemical Engineering",
+      "Civil Engineering",
+      "Construction Management",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ],
+    "is_platinum": false
+  },
+  {
+    "name": "Motiva Enterprises LLC",
+    "booth": "39/40",
+    "ballroom": "Waldorf",
+    "position_types": [
+      "Internships"
+    ],
+    "majors": [
+      "Chemical Engineering",
+      "Cybersecurity",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ],
+    "is_platinum": false
+  },
+  {
+    "name": "Phillips 66",
+    "booth": "33",
+    "ballroom": "Waldorf",
+    "position_types": [
+      "Entry-Level/Full-Time",
+      "Internships"
+    ],
+    "majors": [
+      "Chemical Engineering",
+      "Mechanical Engineering"
+    ],
+    "is_platinum": false
+  },
+  {
+    "name": "Omega 365 USA",
+    "booth": "27/28",
+    "ballroom": "Waldorf",
+    "position_types": [
+      "Entry-Level/Full-Time",
+      "Internships"
+    ],
+    "majors": [
+      "Computer Engineering & Analytics",
+      "Computer Engineering",
+      "Computer Engineering Technology",
+      "Computer Information Systems",
+      "Construction Engineering",
+      "Construction Management",
+      "Engineering Data Science",
+      "Computer & Systems Engineering",
+      "Technology Project Management",
+      "Technology Unspecified"
+    ],
+    "is_platinum": true
+  }
+]
