@@ -1,0 +1,32 @@
+{
+  "route": [
+    {
+      "company_id": 1,
+      "booth_number": "101",
+      "travel_time": 2.0,
+      "service_time": 5.0,
+      "arrival_time": 2.0,
+      "score": 10.0
+    },
+    {
+      "company_id": 2,
+      "booth_number": "102",
+      "travel_time": 1.5,
+      "service_time": 5.0,
+      "arrival_time": 8.5,
+      "score": 8.0
+    },
+    {
+      "company_id": 3,
+      "booth_number": "201",
+      "travel_time": 5.0,
+      "service_time": 5.0,
+      "arrival_time": 19.5,
+      "score": 9.0
+    }
+  ],
+  "total_time": 29.5,
+  "total_score": 27.0,
+  "companies_visited": 3,
+  "time_remaining": 30.5
+}

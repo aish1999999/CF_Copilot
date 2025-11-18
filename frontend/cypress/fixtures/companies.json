@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "TechCorp Solutions",
+    "booth_number": "101",
+    "ballroom": "Waldorf",
+    "recruiting_majors": ["Computer Science", "Software Engineering"],
+    "position_types": ["Full-Time", "Internship"],
+    "is_platinum_sponsor": true,
+    "coordinate_x": 10,
+    "coordinate_y": 10
+  },
+  {
+    "id": 2,
+    "name": "DataSystems Inc",
+    "booth_number": "102",
+    "ballroom": "Waldorf",
+    "recruiting_majors": ["Computer Science", "Data Science"],
+    "position_types": ["Internship"],
+    "is_platinum_sponsor": false,
+    "coordinate_x": 20,
+    "coordinate_y": 10
+  },
+  {
+    "id": 3,
+    "name": "CloudTech Innovations",
+    "booth_number": "201",
+    "ballroom": "Imperial",
+    "recruiting_majors": ["Computer Engineering", "Software Engineering"],
+    "position_types": ["Full-Time"],
+    "is_platinum_sponsor": true,
+    "coordinate_x": 50,
+    "coordinate_y": 10
+  }
+]

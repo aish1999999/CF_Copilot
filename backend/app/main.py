@@ -6,6 +6,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from .config import get_settings
 from .database import init_db, engine, Base
 from .routes import companies, booths, routing, users
+from .routes import nlp_routes, scraper_routes, export_routes
 
 # Import models to ensure they're registered with SQLAlchemy
 from .models import company, booth, user, itinerary
@@ -34,6 +35,9 @@ app.include_router(companies.router, prefix=f"{settings.api_v1_prefix}/companies
 app.include_router(booths.router, prefix=f"{settings.api_v1_prefix}/booths", tags=["booths"])
 app.include_router(routing.router, prefix=f"{settings.api_v1_prefix}/routing", tags=["routing"])
 app.include_router(users.router, prefix=f"{settings.api_v1_prefix}/users", tags=["users"])
+app.include_router(nlp_routes.router, tags=["nlp"])
+app.include_router(scraper_routes.router, tags=["scraping"])
+app.include_router(export_routes.router, tags=["export"])
 
 
 @app.on_event("startup")
